@@ -6,6 +6,7 @@ global.autoRecord = false //auto recording (true to on, false to off)
 global.autoblockmorroco = true //auto block 212 (true to on, false to off)
 global.autokickmorroco = true //auto kick 212 (true to on, false to off) 
 global.antispam = false//auto kick spammer (true to on, false to off)
+global.autoswview = true //auto view status/story (true to on, flase to off) 
 //===============SETTING MENU==================\\
 var _0x6e9f5f = _0x440c;
 function _0x440c(_0xff7e8a, _0x55b825) {
